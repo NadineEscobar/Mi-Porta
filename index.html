@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js" defer></script>
+    <script src="data.js"></script>
+    <title>Portafolio</title>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>¡Sobre Mi!</h1>
+            <p>
+                Soy Escobar, Nadine Técnica Superior en Progamación.
+                Me apasiona el mundo de la tecnología y el desarrollo de software. Adquirí experiencia en diferentes lenguajes de programación y herramientas, y me encanta crear soluciones que marquen la diferencia. Actualmente, estoy ampliando mis conocimientos en la Carrera de Desarrollo Full Stack en Coderhouse, lo que me permite profundizar en el desarrollo tanto del frontend como del backend.
+                Mi objetivo es seguir aprendiendo y aplicando nuevas tecnologías, siempre buscando mejorar y enfrentar nuevos desafíos en el mundo IT. Estoy emocionada por continuar creciendo profesionalmente aportando mi creatividad y habilidades a futuros proyectos.
+            </p>
+        </div>
+        <img src="./img/mio1.png">
+    </header>
+    <main>
+        <section>
+         <h2>Mis Proyectos</h2>
+         <div id="tarjetasContainer"></div>
+        </section>
+        <section>
+            <h2>Mis Estudios</h2>
+            <div id="estudiosContainer"></div>
+        </section>        
+    </main>
+    <aside class="tarjeta">
+    </aside>
+    <div id="imageModal" class="modal" style="display: none;">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modalImage">
+        <div id="caption"></div>
+    </div>    
+    <footer>
+        <p>Hecho con 💻, ☕ y muchas líneas de código. © 2025</p>
+    </footer>
+</body>
+</html>
