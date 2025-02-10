@@ -38,7 +38,7 @@ const informacionPersonal = {
         ["Español", "Nativo"], ["Ingles", "Técnico"]
     ],
     tecnologias: [
-        ["Html", 7], ["Css", 8], ["Javascript", 7], ["Typescript", 7], ["Node", 7], ["React", 6] 
+        ["Html", 7], ["Css", 8], ["Javascript", 7], ["Typescript", 7], ["Node", 7], ["React", 6], 
         ["Nest.js", 5], ["Next.js", 4]
     ],
     redes: [
