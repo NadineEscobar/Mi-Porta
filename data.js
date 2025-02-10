@@ -38,7 +38,7 @@ const informacionPersonal = {
         ["Español", "Nativo"], ["Ingles", "Técnico"]
     ],
     tecnologias: [
-        ["Html", 7], ["Css", 7], ["Javascript", 7], ["Typescript", 6], ["Node", 7], 
+        ["Html", 7], ["Css", 8], ["Javascript", 7], ["Typescript", 7], ["Node", 7], ["React", 6] 
         ["Nest.js", 5], ["Next.js", 4]
     ],
     redes: [
@@ -50,14 +50,14 @@ const informacionPersonal = {
 
 const estudios = [
     {
-        titulo: "Técnica Superior en Programación",
-        institucion: "Instituto TECLAB",
+        titulo: "Técnica Sup. en Programación",
+        institucion: "TECLAB",
         fecha: "2024",
         imagen: "Diplo Teclab.jpeg"
     },
     {
         titulo: "Certificado de Prácticas Profesionalizante",
-        institucion: "freeCodeCamp",
+        institucion: "TECLAB",
         fecha: "2024",
         imagen: "PP.jpeg"
     },
