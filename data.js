@@ -26,7 +26,7 @@ const proyectos = [
 
 const informacionPersonal = {
     imagen: "img/perfil.png",
-    subtitulo: "Programadora Jr",
+    subtitulo: "Programadora/Desarrolladora",
     otros: [
         ["Nacionalidad", "Argentina"],
         [
