@@ -29,6 +29,14 @@ const proyectos = [
         link: "https://github.com/NadineEscobar/Tareas-Pendientes-React-ts",
         imagen: "Lista-Tareas.jpeg",
         tecnologias: ["HTML,", "CSS,", "Javascript,", "React.js,", "Typescript"]
+    },
+
+    {
+        titulo: "Mi Portafolio",
+        descripcion: "Sitio de mi Portafolio persola",
+        link: "https://github.com/NadineEscobar/Mi-Porta",
+        imagen: "Portafolio.jpeg",
+        tecnologias: ["HTML,", "CSS,", "Javascript"]
     }
 ];
 
