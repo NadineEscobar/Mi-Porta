@@ -4,7 +4,7 @@ const proyectos = [
         descripcion: "Proyecto de práctica de una página web sobre un almacen con sus distintos productos, ofertas, etc. Este proyecto se encuentra en proceso de terminar",
         link: "https://github.com/NadineEscobar/e-commerce-almacen",
         imagen: "e-commerce.png",
-        tecnologias: ["HTML", "CSS", "Javascript", "Node.js"]
+        tecnologias: ["HTML,", "CSS,", "Javascript,", "Node.js"]
     },
 
     {
@@ -12,7 +12,7 @@ const proyectos = [
         descripcion: "Un simple juego de Ta Te Ti, detección de ganador o empate y diseño interactivo y fácil de usar",
         link: "https://github.com/NadineEscobar/JuegoDelTaTeTi",
         imagen: "TaTeTi.png",
-        tecnologias: ["HTML", "CSS", "Javascript"]
+        tecnologias: ["HTML,", "CSS,", "Javascript,"]
     },
 
     {
@@ -20,8 +20,16 @@ const proyectos = [
         descripcion: "Un proyecto interactivo de una ruleta personalizable, animación fluida de giro y detección aleatoria de resultados al detenerse ",
         link: "https://github.com/NadineEscobar/Ruleta-Customizable",
         imagen: "ruleta.png",
-        tecnologias: ["HTML", "CSS", "Javascript"]
+        tecnologias: ["HTML,", "CSS,", "Javascript"]
     },
+
+    {
+        titulo: "Lista de Tareas",
+        descripcion: "Web de una Lista de Tareas pendientes sencillas",
+        link: "https://github.com/NadineEscobar/Tareas-Pendientes-React-ts",
+        imagen: "Lista-Tareas.jpeg",
+        tecnologias: ["HTML,", "CSS,", "Javascript,", "React.js,", "Typescript"]
+    }
 ];
 
 const informacionPersonal = {
