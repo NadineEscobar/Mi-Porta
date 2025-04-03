@@ -56,9 +56,10 @@ a:not(footer a){
 }
 
 #tarjetasContainer{
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
+    
 }
 
 #estudiosContainer {
@@ -270,7 +271,7 @@ main{
     grid-area: main;
 }
 
-@media(max-width: 650px){
+@media(max-width: 768px){
     body{
         grid-template-columns: 1fr;
         grid-template-areas: 

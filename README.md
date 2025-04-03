@@ -17,7 +17,7 @@ Este proyecto es una muestra de mi trabajo como programadora y desarrolladora. I
 - `style.css`: Estilos personalizados del proyecto.
 - `index.js`: Código JavaScript para la funcionalidad interactiva.
 - `data.js`: Código JavaScript para la data.
-- `img/`: Carpeta que contiene las imágenes e íconos.
+- `asset/img`: Carpeta que contiene las imágenes e íconos.
 
 ## 🚀 ¿Cómo ver el portafolio?
 

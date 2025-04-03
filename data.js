@@ -28,12 +28,20 @@ const proyectos = [
         descripcion: "Web de una Lista de Tareas pendientes sencillas",
         link: "https://github.com/NadineEscobar/Tareas-Pendientes-React-ts",
         imagen: "Lista-Tareas.jpeg",
-        tecnologias: ["HTML,", "CSS,", "Javascript,", "React.js,", "Typescript"]
+        tecnologias: ["HTML, CSS,", "Javascript,", "React.js,", "Typescript"]
+    },
+
+    {
+        titulo: "Receteando",
+        descripcion: "Sitio de Recetas realizada en un proyecto de Desarrollo Web",
+        link: "https://github.com/NadineEscobar/Recetando-SASS",
+        imagen: "receteandoR-Sass.jpeg",
+        tecnologias: ["HTML,", "CSS, SASS,", "Javascript"]
     },
 
     {
         titulo: "Mi Portafolio",
-        descripcion: "Sitio de mi Portafolio persola",
+        descripcion: "Sitio de mi Portafolio personal",
         link: "https://github.com/NadineEscobar/Mi-Porta",
         imagen: "Portafolio.jpeg",
         tecnologias: ["HTML,", "CSS,", "Javascript"]
@@ -54,8 +62,7 @@ const informacionPersonal = {
         ["Español", "Nativo"], ["Ingles", "Técnico"]
     ],
     tecnologias: [
-        ["Html", 7], ["Css", 8], ["Javascript", 7], ["Typescript", 7], ["Node", 7], ["React", 6], 
-        ["Nest.js", 5], ["Next.js", 4]
+        ["Html", 8], ["Css", 8], ["Javascript", 7], ["Typescript", 5], ["Node", 6],
     ],
     redes: [
         ["github", "https://github.com/NadineEscobar"],
