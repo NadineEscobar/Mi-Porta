@@ -73,22 +73,28 @@ const informacionPersonal = {
 
 const estudios = [
     {
-        titulo: "Técnica Sup. en Programación",
+        titulo: "Título Técnica Sup. en Programación",
+        institucion: "TECLAB",
+        fecha: "2025",
+        imagen: "título-Prog.png"
+    },
+    {
+        titulo: "Certificado de Técnica Sup. en Programación",
         institucion: "TECLAB",
         fecha: "2024",
-        imagen: "Diplo Teclab.jpeg"
+        imagen: "diplo-Teclab.jpeg"
     },
     {
         titulo: "Certificado de Prácticas Profesionalizante",
         institucion: "TECLAB",
         fecha: "2024",
-        imagen: "PP.jpeg"
+        imagen: "pP.jpeg"
     },
     {
         titulo: "Simulación Laboral como Developer",
         institucion: "No Country",
         fecha: "2024",
-        imagen: "No-country.jpg"
+        imagen: "nNo-country.jpg"
     },
     {
         titulo: "Curso de Visualización de Datos",
@@ -100,18 +106,18 @@ const estudios = [
         titulo: "Curso de Diseño Web Responsive",
         institucion: "freeCodeCamp",
         fecha: "2024",
-        imagen: "Web responsi.png"
+        imagen: "web-responsi.png"
     },
     {
         titulo: "Curso de Bibliotecas de Desarrollo Front-end",
         institucion: "freeCodeCamp",
         fecha: "2024",
-        imagen: "Bibli desa front.png"
+        imagen: "bibli-desa front.png"
     },
     {
         titulo: "Programación con JavaScript",
         institucion: "Conecta Empleo",
         fecha: "2023",
-        imagen: "Progra JS.jpeg"
+        imagen: "progra JS.jpeg"
     }
 ];
