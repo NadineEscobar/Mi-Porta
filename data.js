@@ -97,6 +97,12 @@ const estudios = [
         imagen: "nNo-country.jpg"
     },
     {
+        titulo: "Desarrollo Web",
+        institucion: "Coderhouse",
+        fecha: "2025",
+        imagen: "desarrolloWeb-Coderhouse.png"
+    },
+    {
         titulo: "Curso de Visualización de Datos",
         institucion: "freeCodeCamp",
         fecha: "2024",
